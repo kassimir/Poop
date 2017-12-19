@@ -1,0 +1,22 @@
+poo one 1
+poo two 2
+
+myPoop one two name
+
+shit p style=padding-left:35px; test test /p
+
+poo name Chris
+
+shit
+  p style=background-color:tomato;font-style:italic; class=bold The styles are dook class lkjsdf= bold /p
+  p class=highlight,bold Poop is the greatest language ever created! /p
+flush
+
+shit three
+
+poop myPoop
+  shit h1 Hello World! /h1
+  shit h2 from arg3 /h2
+  poo sum arg2 + ( arg1 * 3 + ( 4 - 1 ) )
+  shit h2 I like math and dook sum equals sum /h2
+flush

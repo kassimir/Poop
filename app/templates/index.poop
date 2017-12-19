@@ -1,0 +1,12 @@
+poo _destination World!
+poo _name Poop!
+
+beginning Hello
+
+poop beginning
+  shit
+    h1 class=highlight arg1 _destination /h1
+    h2 class=bold And welcome to _name /h2
+  flush
+  shit p This is a "p" block! :D /p
+flush
