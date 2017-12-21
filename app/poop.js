@@ -35,6 +35,10 @@
           readysetsplice = false;
         }
         if (Object.keys(html).find( i => i === item)) {
+          if (!ce(elar[index-1])) {
+            elar[index-1] = '';
+            return;
+          }
           elar[index] = html[item];
           eleInd = index + 1; // Adding +1 will make it truthy, even if it's 0 index
         }

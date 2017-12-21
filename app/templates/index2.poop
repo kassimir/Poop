@@ -8,7 +8,7 @@ shit p style=padding-left:35px; test test /p
 poo name Chris
 
 shit
-  p style=background-color:tomato;font-style:italic; class=bold The styles are dook class lkjsdf= bold /p
+  p style=background-color:tomato;font-style:italic; class=bold The styles are dook class=bold /p
   p class=highlight,bold Poop is the greatest language ever created! /p
 flush
 
