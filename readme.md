@@ -5,12 +5,15 @@ Currently there isn't a whole lot you can do, but I wanted my Poop to be the stu
 ```
 poo _destination World!
 poo _name Poop!
+
 beginning Hello
+
 poop beginning
-&nbsp;&nbsp;shit
-&nbsp;&nbsp;h1 class=highlight arg1 _destination /h1
-&nbsp;&nbsp;h2 class=bold And welcome to _name /h2
+  shit
+  h1 class=highlight arg1 _destination /h1
+  h2 class=bold And welcome to _name /h2
 flush
+
 shit p This is a dook p block! :D /p
 
 flush<br>
