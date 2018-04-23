@@ -106,10 +106,10 @@
 
     TEMPLATEFOLDER = POOP.getAttribute('templates') ? POOP.getAttribute('templates') : 'templates';
     NEWDIV = POOP.getAttribute('newdiv') ? POOP.getAttribute('newdiv') === 'true' : false;
-    let file = TEMPLATEFOLDER + '/index.poop';
+    let file = TEMPLATEFOLDER + '/index2.poop';
     let req = new XMLHttpRequest();
     req.onreadystatechange = function() {
-      if (this.readyState == 4 && this.status == 200) {
+      if (this.readyState === 4 && this.status === 200) {
         ff = req.responseText;
         buildVars();
         buildFuncs();
