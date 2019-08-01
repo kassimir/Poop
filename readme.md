@@ -8,6 +8,13 @@ poo _name Poop!
 
 beginning Hello
 
+dung
+  .highlight
+    background-color yellow
+  .bold
+    font-weight bold
+    color green
+
 poop beginning
   shit
     h1 class=highlight arg1 _destination /h1
@@ -18,8 +25,8 @@ poop beginning
 flush<br>
 ```
 
-That turns out looking like this: https://i.imgur.com/nDZ2ssI.png
+That turns out looking like this:
+
+![](https://i.imgur.com/nDZ2ssI.png)
 
 Also bear in mind that this was never supposed to be a "public" project, but some friends wanted to see it, so that explains the lack of comments and the absolutely horrible variable names.
-
-I don't have math working yet. It *was* working, but I messed it up somehow. At any rate, don't expect this to get updated much.

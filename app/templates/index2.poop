@@ -1,3 +1,4 @@
+// Set variable one to 1
 poo one 1
 poo two 2
 
@@ -7,16 +8,30 @@ shit p style=padding-left:35px; test test /p
 
 poo name Chris
 
-shit
-  p style=background-color:tomato;font-style:italic; class=bold The styles are dook class=bold /p
-  p class=highlight,bold Poop is the greatest language ever created! /p
+// dung p font-weight bold
+
+dung
+  .bold
+    font-weight bold
+    color green
+  #myP
+    background-color tomato
+  .highlight
+    background-color yellow
+  span
+    color blue
 flush
 
-shit three
+shit
+  p id=myP style=font-style:italic; class=border-1 The styles are dook class=bold /p
+  span class=highlight,bold Poop is the greatest language ever created! /span
+flush
+
+shit p three /p
 
 poop myPoop
   shit h1 Hello World! /h1
   shit h2 from arg3 /h2
   poo sum arg2 + ( arg1 * 3 + ( 4 - 1 ) )
-  shit h2 I like math and dook sum equals sum /h2
+  shit h3 I like math and dook sum equals sum /h3
 flush
